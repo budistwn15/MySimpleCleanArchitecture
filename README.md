@@ -1,1 +1,1 @@
-[![<ORG_NAME>](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](<LINK>)
+[![budistwn15](https://circleci.com/gh/budistwn15/MySimpleCleanArchitecture.svg?style=svg)](https://circleci.com/gh/budistwn15/MySimpleCleanArchitecture)
